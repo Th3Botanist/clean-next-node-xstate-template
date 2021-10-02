@@ -1,0 +1,11 @@
+{
+  "name": "clean-next-node-template",
+  "version": "1.0.0",
+  "description": "Template for clean node, next with typescript, prettier, tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brendan Shields",
+  "license": "ISC"
+}
